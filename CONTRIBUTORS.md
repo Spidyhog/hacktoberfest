@@ -1,6 +1,6 @@
 #### Name: [PRIYANSHU MITTAL](https://github.com/Spidyhog)
 - Place: India
-- Bio: Always ready for places to go!!
+- Bio: bingo!
 - GitHub: [Spidyhog](https://github.com/Spidyhog)
 #### Name: Vallenain
  - Place: Lyon, France
