@@ -1,6 +1,8 @@
-// LANGUAGE: python
-// ENV: python ide
+// LANGUAGE: php
+// ENV: browser
 // AUTHOR: Priyanshu Mittal
 // GITHUB: https://github.com/Spidyhog
 
-print('Hello, World!')
+<?php
+echo "Hello World!";
+?>
